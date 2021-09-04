@@ -1,790 +1,423 @@
-#EXTM3U url-tvg="http://botallen.live/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",& Pictures
-http://watchindia.net:8880/live/60275/20486/818.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",& Pictures HD
-http://watchindia.net:8880/live/60275/20486/783.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",& TV HD
-http://watchindia.net:8880/live/60275/20486/782.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",& Flix HD
-http://watchindia.net:8880/live/60275/20486/2088.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",&xplor HD
-http://watchindia.net:8880/live/60275/20486/2204.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony BBC Earth HD
-http://watchindia.net:8880/live/60275/20486/789.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony TV HD
-http://watchindia.net:8880/live/60275/20486/1969.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony TV HD 2
-http://watchindia.net:8880/live/60275/20486/2141.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony TV HD UK
-http://watchindia.net:8880/live/60275/20486/2117.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Max HD
-http://watchindia.net:8880/live/60275/20486/788.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Max 2
-http://watchindia.net:8880/live/60275/20486/2024.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Pal
-http://watchindia.net:8880/live/60275/20486/812.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Sab HD
-http://watchindia.net:8880/live/60275/20486/781.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Sab UK
-http://watchindia.net:8880/live/60275/20486/2189.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Bharat HD
-http://watchindia.net:8880/live/60275/20486/780.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Plus HD
-http://watchindia.net:8880/live/60275/20486/1924.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Gold India HD
-http://watchindia.net:8880/live/60275/20486/785.m3u8
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Gold Select HD
-http://watchindia.net:8880/live/60275/20486/784.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Movies HD
-http://watchindia.net:8880/live/60275/20486/2080.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star World HD
-http://watchindia.net:8880/live/60275/20486/2191.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",HBO
-http://watchindia.net:8880/live/60275/20486/2081.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee TV HD
-http://watchindia.net:8880/live/60275/20486/1970.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee TV HD USA
-http://watchindia.net:8880/live/60275/20486/1971.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Action
-http://watchindia.net:8880/live/60275/20486/821.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Anmol
-http://watchindia.net:8880/live/60275/20486/813.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Anmol Cinema
-http://watchindia.net:8880/live/60275/20486/820.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Bollywood
-http://watchindia.net:8880/live/60275/20486/822.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Cinema HD
-http://watchindia.net:8880/live/60275/20486/787.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Classic
-http://watchindia.net:8880/live/60275/20486/802.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee News
-http://watchindia.net:8880/live/60275/20486/832.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee World
-http://watchindia.net:8880/live/60275/20486/806.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zoom
-http://watchindia.net:8880/live/60275/20486/842.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Maa HD 1
-http://watchindia.net:8880/live/60275/20486/933.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Maa HD 2
-http://watchindia.net:8880/live/60275/20486/2168.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Maa Movies HD
-http://watchindia.net:8880/live/60275/20486/934.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Maa Gold HD
-http://watchindia.net:8880/live/60275/20486/935.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",10 TV
-http://watchindia.net:8880/live/60275/20486/981.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",92 News
-http://watchindia.net:8880/live/60275/20486/1060.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",92 News UK
-http://watchindia.net:8880/live/60275/20486/1050.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",9X Jalwa
-http://watchindia.net:8880/live/60275/20486/828.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",9X Jhakaas
-http://watchindia.net:8880/live/60275/20486/926.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",9XM Music
-http://watchindia.net:8880/live/60275/20486/827.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",A Plus
-http://watchindia.net:8880/live/60275/20486/1021.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Aaj News
-http://watchindia.net:8880/live/60275/20486/1051.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Dilli Aaj Tak
-http://watchindia.net:8880/live/60275/20486/836.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Aaj Tak HD
-http://watchindia.net:8880/live/60275/20486/807.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Abbtakk News
-http://watchindia.net:8880/live/60275/20486/1062.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ABN News
-http://watchindia.net:8880/live/60275/20486/980.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ABP Majha
-http://watchindia.net:8880/live/60275/20486/925.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ABP News
-http://watchindia.net:8880/live/60275/20486/833.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Vijay HD
-http://watchindia.net:8880/live/60275/20486/846.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Vijay HD 2
-http://watchindia.net:8880/live/60275/20486/2140.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Vijay Super
-http://watchindia.net:8880/live/60275/20486/2190.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sun TV HD
-http://watchindia.net:8880/live/60275/20486/843.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sun TV HD USA
-http://watchindia.net:8880/live/60275/20486/2089.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sun Life
-http://watchindia.net:8880/live/60275/20486/847.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sun Music HD
-http://watchindia.net:8880/live/60275/20486/844.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sun News
-http://watchindia.net:8880/live/60275/20486/869.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sirippoli TV
-http://watchindia.net:8880/live/60275/20486/2084.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Adithya TV
-http://watchindia.net:8880/live/60275/20486/855.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Angel TV HD
-http://watchindia.net:8880/live/60275/20486/862.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",App News
-http://watchindia.net:8880/live/60275/20486/1058.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Aruj Tv
-http://watchindia.net:8880/live/60275/20486/1035.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary Digital
-http://watchindia.net:8880/live/60275/20486/1018.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary News
-http://watchindia.net:8880/live/60275/20486/1042.m3u8
-#EXTINF:-1 tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" group-title="Sneh India",Techie Sneh
-https://github.com/techiesneh
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary World UK
-http://watchindia.net:8880/live/60275/20486/1041.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary Zauk
-http://watchindia.net:8880/live/60275/20486/1026.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ary Zindagi
-http://watchindia.net:8880/live/60275/20486/1025.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet HD 1
-http://watchindia.net:8880/live/60275/20486/276.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet HD 2
-http://watchindia.net:8880/live/60275/20486/2216.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet HD USA
-http://watchindia.net:8880/live/60275/20486/1300.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet Movies 1
-http://watchindia.net:8880/live/60275/20486/278.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet Movies 2
-http://watchindia.net:8880/live/60275/20486/2217.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet News 1
-http://watchindia.net:8880/live/60275/20486/268.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet News 2
-http://watchindia.net:8880/live/60275/20486/2035.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet Plus 1
-http://watchindia.net:8880/live/60275/20486/277.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Asianet Plus 2
-http://watchindia.net:8880/live/60275/20486/2240.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Surya TV HD 1
-http://watchindia.net:8880/live/60275/20486/279.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Surya TV HD 2
-http://watchindia.net:8880/live/60275/20486/2261.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Surya TV HD USA
-http://watchindia.net:8880/live/60275/20486/1938.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Surya Comedy
-http://watchindia.net:8880/live/60275/20486/299.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Surya Movies
-http://watchindia.net:8880/live/60275/20486/298.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Surya Music
-http://watchindia.net:8880/live/60275/20486/285.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Keralam
-http://watchindia.net:8880/live/60275/20486/287.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",24 News 1
-http://watchindia.net:8880/live/60275/20486/1064.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",24 News 2
-http://watchindia.net:8880/live/60275/20486/2082.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Amrita
-http://watchindia.net:8880/live/60275/20486/284.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Flowers TV
-http://watchindia.net:8880/live/60275/20486/2.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Flowers USA
-http://watchindia.net:8880/live/60275/20486/2184.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Garshom TV
-http://watchindia.net:8880/live/60275/20486/1291.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Goodness TV
-http://watchindia.net:8880/live/60275/20486/2234.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",B4U Plus
-http://watchindia.net:8880/live/60275/20486/823.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",B4U Music
-http://watchindia.net:8880/live/60275/20486/2113.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bhakti TV
-http://watchindia.net:8880/live/60275/20486/977.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bol Tv News
-http://watchindia.net:8880/live/60275/20486/1052.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bollywood BoxOffice HD
-http://watchindia.net:8880/live/60275/20486/819.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bollywood Dilse HD
-http://watchindia.net:8880/live/60275/20486/795.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bollywood Premier HD
-http://watchindia.net:8880/live/60275/20486/800.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bollywood Pop HD
-http://watchindia.net:8880/live/60275/20486/797.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kadak Hits HD
-http://watchindia.net:8880/live/60275/20486/798.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Capital Tv News
-http://watchindia.net:8880/live/60275/20486/1049.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors Tamil
-http://watchindia.net:8880/live/60275/20486/2083.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Captain News
-http://watchindia.net:8880/live/60275/20486/878.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Captain TV
-http://watchindia.net:8880/live/60275/20486/876.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Channel 44 UK
-http://watchindia.net:8880/live/60275/20486/1040.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Cineplex HD
-http://watchindia.net:8880/live/60275/20486/803.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors HD Marathi
-http://watchindia.net:8880/live/60275/20486/912.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors HD Kannada
-http://watchindia.net:8880/live/60275/20486/982.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors TV HD
-http://watchindia.net:8880/live/60275/20486/801.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors TV HD UK
-http://watchindia.net:8880/live/60275/20486/2187.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors Rishtey Asia
-http://watchindia.net:8880/live/60275/20486/830.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors Super HD
-http://watchindia.net:8880/live/60275/20486/983.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",CVR News
-http://watchindia.net:8880/live/60275/20486/975.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Discovery Tamil
-http://watchindia.net:8880/live/60275/20486/2085.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Dan News
-http://watchindia.net:8880/live/60275/20486/859.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Dawn News
-http://watchindia.net:8880/live/60275/20486/1044.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",DD Sahyadri
-http://watchindia.net:8880/live/60275/20486/927.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",DD Malayalam
-http://watchindia.net:8880/live/60275/20486/303.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",DD Saptagiri
-http://watchindia.net:8880/live/60275/20486/974.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Discovery Channel Hindi
-http://watchindia.net:8880/live/60275/20486/841.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Discovery World HD
-http://watchindia.net:8880/live/60275/20486/793.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Duniya News UK
-http://watchindia.net:8880/live/60275/20486/1038.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Dunya News
-http://watchindia.net:8880/live/60275/20486/1061.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",E24
-http://watchindia.net:8880/live/60275/20486/829.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Epic HD
-http://watchindia.net:8880/live/60275/20486/794.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ETV
-http://watchindia.net:8880/live/60275/20486/936.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ETV HD
-http://watchindia.net:8880/live/60275/20486/2203.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ETV Life
-http://watchindia.net:8880/live/60275/20486/938.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ETV Plus
-http://watchindia.net:8880/live/60275/20486/937.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Express Entertainment
-http://watchindia.net:8880/live/60275/20486/1029.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Express News
-http://watchindia.net:8880/live/60275/20486/1047.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Fakt
-http://watchindia.net:8880/live/60275/20486/924.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gemini Comedy
-http://watchindia.net:8880/live/60275/20486/971.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gemini Life HD
-http://watchindia.net:8880/live/60275/20486/931.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gemini Movies HD
-http://watchindia.net:8880/live/60275/20486/930.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gemini Music HD
-http://watchindia.net:8880/live/60275/20486/929.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gemini News
-http://watchindia.net:8880/live/60275/20486/973.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gemini TV
-http://watchindia.net:8880/live/60275/20486/928.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Geo Entertainment
-http://watchindia.net:8880/live/60275/20486/2267.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Geo Kahani
-http://watchindia.net:8880/live/60275/20486/2268.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Geo Super
-http://watchindia.net:8880/live/60275/20486/1016.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Geo News UK
-http://watchindia.net:8880/live/60275/20486/1037.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Geo Tez
-http://watchindia.net:8880/live/60275/20486/1043.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Gnn News
-http://watchindia.net:8880/live/60275/20486/1045.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",History TV HD
-http://watchindia.net:8880/live/60275/20486/791.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Hum Masala UK
-http://watchindia.net:8880/live/60275/20486/1023.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Hum Sitaray
-http://watchindia.net:8880/live/60275/20486/1024.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Hum TV HD
-http://watchindia.net:8880/live/60275/20486/1022.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Hum Tv UK
-http://watchindia.net:8880/live/60275/20486/1019.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",India Today TV
-http://watchindia.net:8880/live/60275/20486/835.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jaihind
-http://watchindia.net:8880/live/60275/20486/293.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Janam TV
-http://watchindia.net:8880/live/60275/20486/309.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jaya Max
-http://watchindia.net:8880/live/60275/20486/852.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jaya Movie
-http://watchindia.net:8880/live/60275/20486/849.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jaya Plus
-http://watchindia.net:8880/live/60275/20486/850.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jaya TV HD
-http://watchindia.net:8880/live/60275/20486/851.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jaya TV
-http://watchindia.net:8880/live/60275/20486/964.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Jeevan TV
-http://watchindia.net:8880/live/60275/20486/300.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kappa TV
-http://watchindia.net:8880/live/60275/20486/1762.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kairali TV
-http://watchindia.net:8880/live/60275/20486/307.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kairali News
-http://watchindia.net:8880/live/60275/20486/308.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kairali We
-http://watchindia.net:8880/live/60275/20486/1761.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Isaiaruvi TV
-http://watchindia.net:8880/live/60275/20486/2149.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kalaignar TV
-http://watchindia.net:8880/live/60275/20486/2148.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kaumudy TV
-http://watchindia.net:8880/live/60275/20486/305.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kay 2
-http://watchindia.net:8880/live/60275/20486/1027.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Khyber News
-http://watchindia.net:8880/live/60275/20486/1054.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Khyber Tv
-http://watchindia.net:8880/live/60275/20486/1034.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kochu TV
-http://watchindia.net:8880/live/60275/20486/290.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",KTV HD
-http://watchindia.net:8880/live/60275/20486/845.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Lahore News
-http://watchindia.net:8880/live/60275/20486/1046.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Madha TV
-http://watchindia.net:8880/live/60275/20486/875.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Maiboli
-http://watchindia.net:8880/live/60275/20486/923.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Makkal TV
-http://watchindia.net:8880/live/60275/20486/871.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Magnavision TV
-http://watchindia.net:8880/live/60275/20486/2233.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Manorama News
-http://watchindia.net:8880/live/60275/20486/281.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Manoranjan Movies
-http://watchindia.net:8880/live/60275/20486/804.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Mastiii
-http://watchindia.net:8880/live/60275/20486/826.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Mathrubhumi News
-http://watchindia.net:8880/live/60275/20486/304.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Mazhavil Manorama HD 1
-http://watchindia.net:8880/live/60275/20486/280.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Mazhavil Manorama HD 2
-http://watchindia.net:8880/live/60275/20486/2231.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Media One
-http://watchindia.net:8880/live/60275/20486/302.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Minhaj Tv
-http://watchindia.net:8880/live/60275/20486/1056.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MTV Hindi
-http://watchindia.net:8880/live/60275/20486/825.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MTV Beats HD
-http://watchindia.net:8880/live/60275/20486/786.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Murasu TV
-http://watchindia.net:8880/live/60275/20486/880.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nambikkai TV
-http://watchindia.net:8880/live/60275/20486/856.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",National Geographic HD
-http://watchindia.net:8880/live/60275/20486/790.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NDTV News
-http://watchindia.net:8880/live/60275/20486/831.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NDTV News UK
-http://watchindia.net:8880/live/60275/20486/1055.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NDTV Profit
-http://watchindia.net:8880/live/60275/20486/837.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Neo News HD
-http://watchindia.net:8880/live/60275/20486/1057.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News 18
-http://watchindia.net:8880/live/60275/20486/301.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News 18
-http://watchindia.net:8880/live/60275/20486/873.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News 18 Lokmat
-http://watchindia.net:8880/live/60275/20486/922.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News 7
-http://watchindia.net:8880/live/60275/20486/867.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News Nation
-http://watchindia.net:8880/live/60275/20486/838.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News One
-http://watchindia.net:8880/live/60275/20486/1017.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Pashto 1
-http://watchindia.net:8880/live/60275/20486/1036.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Peace TV
-http://watchindia.net:8880/live/60275/20486/1063.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Powervision TV
-http://watchindia.net:8880/live/60275/20486/1290.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nick Tamil
-http://watchindia.net:8880/live/60275/20486/2181.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Peppers
-http://watchindia.net:8880/live/60275/20486/870.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Polimer TV
-http://watchindia.net:8880/live/60275/20486/2147.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Polimer News
-http://watchindia.net:8880/live/60275/20486/877.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Prajaa TV
-http://watchindia.net:8880/live/60275/20486/997.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ptv Global UK
-http://watchindia.net:8880/live/60275/20486/1032.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ptv Home
-http://watchindia.net:8880/live/60275/20486/1033.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Ptv News UK
-http://watchindia.net:8880/live/60275/20486/1053.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Public News
-http://watchindia.net:8880/live/60275/20486/1059.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Public TV
-http://watchindia.net:8880/live/60275/20486/996.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Puthiya Thalaimurai
-http://watchindia.net:8880/live/60275/20486/879.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Puthuyugam TV
-http://watchindia.net:8880/live/60275/20486/865.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj Digital Plus
-http://watchindia.net:8880/live/60275/20486/857.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj Musix
-http://watchindia.net:8880/live/60275/20486/286.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj Musix Kannada
-http://watchindia.net:8880/live/60275/20486/993.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj Musix Tamil
-http://watchindia.net:8880/live/60275/20486/861.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj Musix Telugu
-http://watchindia.net:8880/live/60275/20486/957.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj News Telugu
-http://watchindia.net:8880/live/60275/20486/956.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj News Kannada
-http://watchindia.net:8880/live/60275/20486/995.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj News 24x7
-http://watchindia.net:8880/live/60275/20486/853.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj News
-http://watchindia.net:8880/live/60275/20486/291.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Raj TV
-http://watchindia.net:8880/live/60275/20486/854.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Reporter TV
-http://watchindia.net:8880/live/60275/20486/306.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nick Hindi
-http://watchindia.net:8880/live/60275/20486/2182.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nick HD Plus
-http://watchindia.net:8880/live/60275/20486/2237.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Republic Bharat
-http://watchindia.net:8880/live/60275/20486/817.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Republic TV News
-http://watchindia.net:8880/live/60275/20486/815.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sakshi TV
-http://watchindia.net:8880/live/60275/20486/955.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Samaa News UK
-http://watchindia.net:8880/live/60275/20486/1039.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sangeet
-http://watchindia.net:8880/live/60275/20486/920.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Harvest TV
-http://watchindia.net:8880/live/60275/20486/1303.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Safari TV
-http://watchindia.net:8880/live/60275/20486/1301.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Shalom TV
-http://watchindia.net:8880/live/60275/20486/288.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Marathi
-http://watchindia.net:8880/live/60275/20486/919.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Stage Darama
-http://watchindia.net:8880/live/60275/20486/1031.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Star Pravah HD
-http://watchindia.net:8880/live/60275/20486/918.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Suvarna HD
-http://watchindia.net:8880/live/60275/20486/985.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Suvarna News
-http://watchindia.net:8880/live/60275/20486/990.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Suvarna Plus HD
-http://watchindia.net:8880/live/60275/20486/984.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",T News
-http://watchindia.net:8880/live/60275/20486/949.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sri Sankara TV
-http://watchindia.net:8880/live/60275/20486/2164.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Tamil Vision TV
-http://watchindia.net:8880/live/60275/20486/863.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Tamilian TV
-http://watchindia.net:8880/live/60275/20486/864.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Thanthi TV
-http://watchindia.net:8880/live/60275/20486/860.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Thanthi TV
-http://watchindia.net:8880/live/60275/20486/947.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Times Now
-http://watchindia.net:8880/live/60275/20486/839.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TLC Hindi
-http://watchindia.net:8880/live/60275/20486/840.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Travel XP
-http://watchindia.net:8880/live/60275/20486/872.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TravelXP HD
-http://watchindia.net:8880/live/60275/20486/792.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Tv One
-http://watchindia.net:8880/live/60275/20486/1028.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TV5 News
-http://watchindia.net:8880/live/60275/20486/987.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TV9
-http://watchindia.net:8880/live/60275/20486/917.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TV9
-http://watchindia.net:8880/live/60275/20486/945.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TV9 News
-http://watchindia.net:8880/live/60275/20486/986.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TV9 News
-http://watchindia.net:8880/live/60275/20486/834.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Udaya HD
-http://watchindia.net:8880/live/60275/20486/1002.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Udaya Comedy
-http://watchindia.net:8880/live/60275/20486/988.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Udaya Movies
-http://watchindia.net:8880/live/60275/20486/1004.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Udaya Music
-http://watchindia.net:8880/live/60275/20486/1003.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Urdu 1
-http://watchindia.net:8880/live/60275/20486/1020.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",UTV Action
-http://watchindia.net:8880/live/60275/20486/805.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",UTV HD
-http://watchindia.net:8880/live/60275/20486/811.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",V6 News
-http://watchindia.net:8880/live/60275/20486/943.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Vasanth TV
-http://watchindia.net:8880/live/60275/20486/858.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Vendhar TV
-http://watchindia.net:8880/live/60275/20486/2146.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Vissa TV
-http://watchindia.net:8880/live/60275/20486/942.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Waqt News
-http://watchindia.net:8880/live/60275/20486/1048.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Wion News
-http://watchindia.net:8880/live/60275/20486/816.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Tamil
-http://watchindia.net:8880/live/60275/20486/887.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Telugu
-http://watchindia.net:8880/live/60275/20486/940.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Kannada
-http://watchindia.net:8880/live/60275/20486/1001.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee 24 Taas
-http://watchindia.net:8880/live/60275/20486/916.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Cinemalu
-http://watchindia.net:8880/live/60275/20486/941.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee HD Marathi
-http://watchindia.net:8880/live/60275/20486/913.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Talkies HD
-http://watchindia.net:8880/live/60275/20486/914.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Yuva
-http://watchindia.net:8880/live/60275/20486/915.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Saam
-http://watchindia.net:8880/live/60275/20486/921.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Pix HD
-http://watchindia.net:8880/live/60275/20486/2101.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Movies Now HD
-http://watchindia.net:8880/live/60275/20486/2102.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",& Prive HD
-http://watchindia.net:8880/live/60275/20486/2103.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors Gujarati
-http://watchindia.net:8880/live/60275/20486/1006.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TV9 Gujarati
-http://watchindia.net:8880/live/60275/20486/1007.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee 24 Kalak
-http://watchindia.net:8880/live/60275/20486/1008.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",VTV News
-http://watchindia.net:8880/live/60275/20486/1009.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",News18
-http://watchindia.net:8880/live/60275/20486/1010.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sandesh News
-http://watchindia.net:8880/live/60275/20486/1011.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ABP Asmita HD
-http://watchindia.net:8880/live/60275/20486/1012.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Lakshya TV HD
-http://watchindia.net:8880/live/60275/20486/1014.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",DD Girnar
-http://watchindia.net:8880/live/60275/20486/1918.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",CNBC Bajar
-http://watchindia.net:8880/live/60275/20486/1919.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kartavya TV
-http://watchindia.net:8880/live/60275/20486/1920.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Mitra
-http://watchindia.net:8880/live/60275/20486/1921.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",GSTV
-http://watchindia.net:8880/live/60275/20486/1922.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kathamrut TV
-http://watchindia.net:8880/live/60275/20486/1923.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Fox News
-http://watchindia.net:8880/live/60275/20486/2057.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",CNN
-http://watchindia.net:8880/live/60275/20486/2058.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MSNBC
-http://watchindia.net:8880/live/60275/20486/2060.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Newsmax TV
-http://watchindia.net:8880/live/60275/20486/2202.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",CNBC
-http://watchindia.net:8880/live/60275/20486/2053.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",CBS
-http://watchindia.net:8880/live/60275/20486/2121.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ABC
-http://watchindia.net:8880/live/60275/20486/2120.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NBC
-http://watchindia.net:8880/live/60275/20486/2122.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NBC Sports
-http://watchindia.net:8880/live/60275/20486/2266.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Discovery Channel
-http://watchindia.net:8880/live/60275/20486/2036.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Discovery Life
-http://watchindia.net:8880/live/60275/20486/2124.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",National Geographic
-http://watchindia.net:8880/live/60275/20486/2037.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nat Geo Wild
-http://watchindia.net:8880/live/60275/20486/2047.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Animal Planet
-http://watchindia.net:8880/live/60275/20486/2039.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",The Weather Channel
-http://watchindia.net:8880/live/60275/20486/2042.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",A&E Network
-http://watchindia.net:8880/live/60275/20486/2044.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",BBC America
-http://watchindia.net:8880/live/60275/20486/2055.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ESPN
-http://watchindia.net:8880/live/60275/20486/2161.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NFL Network
-http://watchindia.net:8880/live/60275/20486/2165.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NFL RedZone
-http://watchindia.net:8880/live/60275/20486/2160.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Cinemax
-http://watchindia.net:8880/live/60275/20486/2065.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Comedy Central
-http://watchindia.net:8880/live/60275/20486/2056.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Cartoon Network
-http://watchindia.net:8880/live/60275/20486/2052.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nickelodeon
-http://watchindia.net:8880/live/60275/20486/2049.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nicktoons
-http://watchindia.net:8880/live/60275/20486/2064.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Nick Jr.
-http://watchindia.net:8880/live/60275/20486/2059.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Disney Channel
-http://watchindia.net:8880/live/60275/20486/2046.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Disney XD
-http://watchindia.net:8880/live/60275/20486/2066.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Disney Jr.
-http://watchindia.net:8880/live/60275/20486/2105.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Boomerang
-http://watchindia.net:8880/live/60275/20486/1295.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",History
-http://watchindia.net:8880/live/60275/20486/2038.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",HGTV
-http://watchindia.net:8880/live/60275/20486/2118.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TBS
-http://watchindia.net:8880/live/60275/20486/2050.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TNT
-http://watchindia.net:8880/live/60275/20486/2051.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",TLC
-http://watchindia.net:8880/live/60275/20486/2139.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Food Network
-http://watchindia.net:8880/live/60275/20486/2045.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Fox HD
-http://watchindia.net:8880/live/60275/20486/2183.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Fox Business
-http://watchindia.net:8880/live/60275/20486/2201.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Freeform
-http://watchindia.net:8880/live/60275/20486/2137.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",FX
-http://watchindia.net:8880/live/60275/20486/2136.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Showtime
-http://watchindia.net:8880/live/60275/20486/2054.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Syfy
-http://watchindia.net:8880/live/60275/20486/2127.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",AMC
-http://watchindia.net:8880/live/60275/20486/2043.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MTV
-http://watchindia.net:8880/live/60275/20486/2062.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",BET
-http://watchindia.net:8880/live/60275/20486/2063.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Outdoor Channel
-http://watchindia.net:8880/live/60275/20486/2119.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Travel Channel
-http://watchindia.net:8880/live/60275/20486/2123.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",VH1
-http://watchindia.net:8880/live/60275/20486/2185.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ChuChu TV
-http://watchindia.net:8880/live/60275/20486/1296.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Peppa Pig
-http://watchindia.net:8880/live/60275/20486/1298.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Yay
-http://watchindia.net:8880/live/60275/20486/2104.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sony Yay Telugu
-http://watchindia.net:8880/live/60275/20486/2126.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Paw Patrol
-http://watchindia.net:8880/live/60275/20486/1297.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",PJ Masks
-http://watchindia.net:8880/live/60275/20486/1299.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Thirai
-http://watchindia.net:8880/live/60275/20486/2142.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Aastha TV UK
-http://watchindia.net:8880/live/60275/20486/2150.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sanskar TV
-http://watchindia.net:8880/live/60275/20486/2151.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Premiere
-http://watchindia.net:8880/live/60275/20486/2169.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Select
-http://watchindia.net:8880/live/60275/20486/2170.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Hits
-http://watchindia.net:8880/live/60275/20486/2171.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Greats
-http://watchindia.net:8880/live/60275/20486/2172.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Family
-http://watchindia.net:8880/live/60275/20486/2173.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Disney
-http://watchindia.net:8880/live/60275/20486/2175.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Action
-http://watchindia.net:8880/live/60275/20486/2176.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Comedy
-http://watchindia.net:8880/live/60275/20486/2177.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Thriller
-http://watchindia.net:8880/live/60275/20486/2178.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Drama
-http://watchindia.net:8880/live/60275/20486/2179.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Sky Cinema Sci-Fi/Horror
-http://watchindia.net:8880/live/60275/20486/2180.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Romedy Now
-http://watchindia.net:8880/live/60275/20486/2188.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",NTV News
-http://watchindia.net:8880/live/60275/20486/2193.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",5AAB TV
-http://watchindia.net:8880/live/60275/20486/2195.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Alpha
-http://watchindia.net:8880/live/60275/20486/2196.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Prime Asia TV
-http://watchindia.net:8880/live/60275/20486/2197.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MH1
-http://watchindia.net:8880/live/60275/20486/2198.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Akaal Channel
-http://watchindia.net:8880/live/60275/20486/2199.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bollywood Bol Haddipa HD
-http://watchindia.net:8880/live/60275/20486/796.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",PTC IN
-http://watchindia.net:8880/live/60275/20486/1941.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",PTC News
-http://watchindia.net:8880/live/60275/20486/1943.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",PTC Chakde
-http://watchindia.net:8880/live/60275/20486/1944.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",PTC Music
-http://watchindia.net:8880/live/60275/20486/1945.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",PTC Simran
-http://watchindia.net:8880/live/60275/20486/1946.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",DD Punjabi
-http://watchindia.net:8880/live/60275/20486/1947.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MH One News
-http://watchindia.net:8880/live/60275/20486/1948.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",MH One Music
-http://watchindia.net:8880/live/60275/20486/1949.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",9X Tashan
-http://watchindia.net:8880/live/60275/20486/1950.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Punjabi
-http://watchindia.net:8880/live/60275/20486/1951.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Zee Punjab Haryana Himachal
-http://watchindia.net:8880/live/60275/20486/1952.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",ABP Sanjha
-http://watchindia.net:8880/live/60275/20486/1953.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Desi Channel
-http://watchindia.net:8880/live/60275/20486/1954.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Balle Balle
-http://watchindia.net:8880/live/60275/20486/1955.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Fateh TV
-http://watchindia.net:8880/live/60275/20486/1956.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kalaignar News
-http://watchindia.net:8880/live/60275/20486/874.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Malayalam Box Office
-http://watchindia.net:8880/live/60275/20486/2156.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Bollywood Box Office
-http://watchindia.net:8880/live/60275/20486/2157.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Kollywood Box Office
-http://watchindia.net:8880/live/60275/20486/2152.m3u8
-#EXTINF:-1 group-title="Sneh WatchIndia Plus",Colors TV HD 2
-http://watchindia.net:8880/live/60275/20486/2264.m3u8
+#EXTM3U 
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",24 Ghanta
+https://ayushiz5tv.herokuapp.com?c=0-9-24ghantatv
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Republic Bharat
+https://ayushiz5tv.herokuapp.com?c=0-9-162
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee News
+https://ayushiz5tv.herokuapp.com?c=0-9-zeenews
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Polimer News
+https://ayushiz5tv.herokuapp.com?c=0-9-203
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Putiya Thalamurai
+https://ayushiz5tv.herokuapp.com?c=0-9-220
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Vendhar TV
+https://ayushiz5tv.herokuapp.com?c=0-9-306
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV9 Telugu
+https://ayushiz5tv.herokuapp.com?c=0-9-258
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV5 News
+https://ayushiz5tv.herokuapp.com?c=0-9-222
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Punjab Haryana Himachal Pradesh
+https://ayushiz5tv.herokuapp.com?c=0-9-zeepunjabharyanahima
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Saam TV
+https://ayushiz5tv.herokuapp.com?c=0-9-270
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV9 Marathi
+https://ayushiz5tv.herokuapp.com?c=0-9-257
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Aaj Tak
+https://ayushiz5tv.herokuapp.com?c=0-9-aajtak
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India TV
+https://ayushiz5tv.herokuapp.com?c=0-9-282
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV9 Bharatvarsh
+https://ayushiz5tv.herokuapp.com?c=0-9-251
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Busines
+https://ayushiz5tv.herokuapp.com?c=0-9-zeebusiness
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV9 Gujarati
+https://ayushiz5tv.herokuapp.com?c=0-9-260
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee 24 Kalak
+https://ayushiz5tv.herokuapp.com?c=0-9-zee24kalak
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV9 Kannada
+https://ayushiz5tv.herokuapp.com?c=0-9-259
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Suvarna News
+https://ayushiz5tv.herokuapp.com?c=0-9-201
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",News24
+https://ayushiz5tv.herokuapp.com?c=0-9-206
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India Today
+https://ayushiz5tv.herokuapp.com?c=0-9-indiatoday
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Tez
+https://ayushiz5tv.herokuapp.com?c=0-9-255
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee 24 Taas
+https://ayushiz5tv.herokuapp.com?c=0-9-zee24taas
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Hindustan
+https://ayushiz5tv.herokuapp.com?c=0-9-zeehindustan
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Bihar Jharkhand
+https://ayushiz5tv.herokuapp.com?c=0-9-zeebiharjharkhand
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",WION
+https://ayushiz5tv.herokuapp.com?c=0-9-wion
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",E24
+https://ayushiz5tv.herokuapp.com?c=0-9-207
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Odisha
+https://ayushiz5tv.herokuapp.com?c=0-9-zeekalinganews
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Rajasthan News
+https://ayushiz5tv.herokuapp.com?c=0-9-zeerajasthannews
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",News State Uttar Pradesh Uttrakhand
+https://ayushiz5tv.herokuapp.com?c=0-9-171
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zing
+https://ayushiz5tv.herokuapp.com?c=0-9-zing
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Big Magic
+https://ayushiz5tv.herokuapp.com?c=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee TV HD
+https://ayushiz5tv.herokuapp.com?c=0-9-zeetvhd
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",&TV HD
+https://ayushiz5tv.herokuapp.com?c=0-9-tvhd_0
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Marathi HD
+https://ayushiz5tv.herokuapp.com?c=0-9-zeemarathi
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Yuva
+https://ayushiz5tv.herokuapp.com?c=0-9-zeeyuva
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Café HD
+https://ayushiz5tv.herokuapp.com?c=0-9-zeecafehd
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Madhya Pradesh Chhattisgarh
+https://ayushiz5tv.herokuapp.com?c=0-9-zeemadhyapradeshchat
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Kannada
+https://ayushiz5tv.herokuapp.com?c=0-9-zeekannada
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Bangla
+https://ayushiz5tv.herokuapp.com?c=0-9-zeebangla
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Anmol
+https://ayushiz5tv.herokuapp.com?c=0-9-zeeanmol
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Cinema HD
+https://ayushiz5tv.herokuapp.com?c=0-9-zeecinemahd
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",&Pictures HD
+https://ayushiz5tv.herokuapp.com?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Talkies
+https://ayushiz5tv.herokuapp.com?c=0-9-zeetalkies
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Telugu
+https://ayushiz5tv.herokuapp.com?c=0-9-zeetelugu
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Bangla Cinema
+https://ayushiz5tv.herokuapp.com?c=0-9-zeebanglacinema
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Tamil
+https://ayushiz5tv.herokuapp.com?c=0-9-zeetamil
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Anmol Cinema
+https://ayushiz5tv.herokuapp.com?c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Bollywood
+https://ayushiz5tv.herokuapp.com?c=0-9-zeeclassic
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Cinema
+https://ayushiz5tv.herokuapp.com?c=0-9-zeecinema
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",&Pictures
+https://ayushiz5tv.herokuapp.com?c=0-9-pictures
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Action
+https://ayushiz5tv.herokuapp.com?c=0-9-zeeaction
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Keralam HD
+https://ayushiz5tv.herokuapp.com?c=0-9-129
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Punjabi
+https://ayushiz5tv.herokuapp.com?c=0-9-215
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Chardikla Time TV
+https://ayushiz5tv.herokuapp.com?c=0-9-chardiklatimetvtimet
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Big Ganga
+https://ayushiz5tv.herokuapp.com?c=0-9-bigganga
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD News
+https://ayushiz5tv.herokuapp.com?c=0-9-ddnews
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD India
+https://ayushiz5tv.herokuapp.com?c=0-9-ddindia
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Kisan
+https://ayushiz5tv.herokuapp.com?c=0-9-ddkisan
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",9X Jalwa
+https://ayushiz5tv.herokuapp.com?c=0-9-133
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Cinemalu
+https://ayushiz5tv.herokuapp.com?c=0-9-zeecinemalu
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",9XM
+https://ayushiz5tv.herokuapp.com?c=0-9-131
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",9X Jhakaas
+https://ayushiz5tv.herokuapp.com?c=0-9-134
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Boogle Bollywood
+https://ayushiz5tv.herokuapp.com?c=0-9-165
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Odia
+https://ayushiz5tv.herokuapp.com?c=0-9-ddodia
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",&flix
+https://ayushiz5tv.herokuapp.com?c=0-9-channel_2105335046
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",9X Tashan
+https://ayushiz5tv.herokuapp.com?c=0-9-132
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Alpha ETC Punjabi
+https://ayushiz5tv.herokuapp.com?c=0-9-channel_2132977507
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Shiksha TV
+https://ayushiz5tv.herokuapp.com?c=0-9-163
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sanskar TV
+https://ayushiz5tv.herokuapp.com?c=0-9-channel_1144658965
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Shubh TV
+https://ayushiz5tv.herokuapp.com?c=0-9-327
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Satsang TV
+https://ayushiz5tv.herokuapp.com?c=0-9-channel_1565694979
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Divya TV
+https://ayushiz5tv.herokuapp.com?c=0-9-divyatv
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Krishna Vani
+https://ayushiz5tv.herokuapp.com?c=0-9-166
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Salaam
+https://ayushiz5tv.herokuapp.com?c=0-9-zeesalaam
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee TV
+https://ayushiz5tv.herokuapp.com?c=0-9-zeetv
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Makkal TV
+https://ayushiz5tv.herokuapp.com?c=0-9-makkaltv
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Podhigai
+https://ayushiz5tv.herokuapp.com?c=0-9-ddpodhigai
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Malayalam
+https://ayushiz5tv.herokuapp.com?c=0-9-ddmalayalam
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Yadagiri
+https://ayushiz5tv.herokuapp.com?c=0-9-ddyadagiri
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Bangla
+https://ayushiz5tv.herokuapp.com?c=0-9-ddbangla
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Chandana
+https://ayushiz5tv.herokuapp.com?c=0-9-ddchandana
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Sarthak
+https://ayushiz5tv.herokuapp.com?c=0-9-sarthaktv
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Sahyadri
+https://ayushiz5tv.herokuapp.com?c=0-9-ddsahyadri
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Girnar
+https://ayushiz5tv.herokuapp.com?c=0-9-ddgirnar
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Urdu
+https://ayushiz5tv.herokuapp.com?c=0-9-ddurdu
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Rajasthan
+https://ayushiz5tv.herokuapp.com?c=0-9-ddrajasthanjaipur
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Bharati
+https://ayushiz5tv.herokuapp.com?c=0-9-ddbharati
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Madhya Pradesh
+https://ayushiz5tv.herokuapp.com?c=0-9-ddmadhyapradesh
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Bihar
+https://ayushiz5tv.herokuapp.com?c=0-9-ddbihar
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Uttar Pradesh
+https://ayushiz5tv.herokuapp.com?c=0-9-dduttarpradesh
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Hare Krsna
+https://ayushiz5tv.herokuapp.com?c=0-9-183
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee News Uttar Pradesh Uttrakhand
+https://ayushiz5tv.herokuapp.com?c=0-9-channel_265145625
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD Punjabi
+https://ayushiz5tv.herokuapp.com?c=0-9-ddpunjabi
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",State Madhya Pradesh Chhattisgarh
+https://ayushiz5tv.herokuapp.com?c=0-9-172 News
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sports Flashes - Hindi
+https://ayushiz5tv.herokuapp.com?c=0-9-185
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Classic
+https://ayushiz5tv.herokuapp.com?c=0-9-176
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",The Q
+https://ayushiz5tv.herokuapp.com?c=0-9-181
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Asianet News
+https://ayushiz5tv.herokuapp.com?c=0-9-200
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",&xplorHD
+https://ayushiz5tv.herokuapp.com?c=0-9-209
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Biskope
+https://ayushiz5tv.herokuapp.com?c=0-9-216
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Puthyugam TV
+https://ayushiz5tv.herokuapp.com?c=0-9-221
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Thirai
+https://ayushiz5tv.herokuapp.com?c=0-9-224
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Zest HD
+https://ayushiz5tv.herokuapp.com?c=0-9-348
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",News X
+https://ayushiz5tv.herokuapp.com?c=0-9-273
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News
+https://ayushiz5tv.herokuapp.com?c=0-9-272
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Picchar
+https://ayushiz5tv.herokuapp.com?c=0-9-241
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",DD National HD
+https://ayushiz5tv.herokuapp.com?c=0-9-250
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sugran TV
+https://ayushiz5tv.herokuapp.com?c=0-9-271
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News Punjabi Himachal
+https://ayushiz5tv.herokuapp.com?c=0-9-274
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News UP
+https://ayushiz5tv.herokuapp.com?c=0-9-275
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News Rajasthan
+https://ayushiz5tv.herokuapp.com?c=0-9-276
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News MP
+https://ayushiz5tv.herokuapp.com?c=0-9-277
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News Haryana
+https://ayushiz5tv.herokuapp.com?c=0-9-278
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",India News Gujarat
+https://ayushiz5tv.herokuapp.com?c=0-9-279
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",NE News
+https://ayushiz5tv.herokuapp.com?c=0-9-280
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sadhna TV
+https://ayushiz5tv.herokuapp.com?c=0-9-284
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",IshwarTV
+https://ayushiz5tv.herokuapp.com?c=0-9-285
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",ZEE5 Kids
+https://ayushiz5tv.herokuapp.com?c=0-9-290
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Non-stop EDM
+https://ayushiz5tv.herokuapp.com?c=0-9-296
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Local Vocal | United We Stand
+https://ayushiz5tv.herokuapp.com?c=0-9-298
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sounds of ZEE5 - Originals
+https://ayushiz5tv.herokuapp.com?c=0-9-299
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sounds of ZEE5 - Punjabi Beats
+https://ayushiz5tv.herokuapp.com?c=0-9-300
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sounds of ZEE5 - Romance
+https://ayushiz5tv.herokuapp.com?c=0-9-301
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sounds of ZEE5 - EDM
+https://ayushiz5tv.herokuapp.com?c=0-9-302
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",BBC World News
+https://ayushiz5tv.herokuapp.com?c=0-9-339
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Living India
+https://ayushiz5tv.herokuapp.com?c=0-9-305
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Prag News
+https://ayushiz5tv.herokuapp.com?c=0-9-310
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sadhna Plus News
+https://ayushiz5tv.herokuapp.com?c=0-9-313
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",VIP News
+https://ayushiz5tv.herokuapp.com?c=0-9-314
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Live Today
+https://ayushiz5tv.herokuapp.com?c=0-9-315
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Awakening
+https://ayushiz5tv.herokuapp.com?c=0-9-316
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TIME8
+https://ayushiz5tv.herokuapp.com?c=0-9-317
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Sadhna News MP/CG
+https://ayushiz5tv.herokuapp.com?c=0-9-319
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Rengoni
+https://ayushiz5tv.herokuapp.com?c=0-9-322
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Next Up on ZEE5 for April 2021
+https://ayushiz5tv.herokuapp.com?c=0-9-364
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Demo Moon Live
+https://ayushiz5tv.herokuapp.com?c=0-9-373
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Test Channel
+https://ayushiz5tv.herokuapp.com?c=0-9-381
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Ptunes
+https://ayushiz5tv.herokuapp.com?c=0-9-344
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Ek Onkar
+https://ayushiz5tv.herokuapp.com?c=0-9-345
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Uday News
+https://ayushiz5tv.herokuapp.com?c=0-9-346
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Zee Vajwa
+https://ayushiz5tv.herokuapp.com?c=0-9-353
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Bharat Samachar
+https://ayushiz5tv.herokuapp.com?c=0-9-354
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",ABN Andhra Jyothy
+https://ayushiz5tv.herokuapp.com?c=0-9-355
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",News First
+https://ayushiz5tv.herokuapp.com?c=0-9-356
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",10TV
+https://ayushiz5tv.herokuapp.com?c=0-9-371
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",NTV
+https://ayushiz5tv.herokuapp.com?c=0-9-372
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",LIVE Event
+https://ayushiz5tv.herokuapp.com?c=0-9-374
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Haryanvi Hits
+https://ayushiz5tv.herokuapp.com?c=0-9-375
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",Wah Punjabi
+https://ayushiz5tv.herokuapp.com?c=0-9-376
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",BTV
+https://ayushiz5tv.herokuapp.com?c=0-9-377
+#EXTINF:-1 tvg-id="1" group-title="ZEE5 LIVE",TV9 Bangla
+https://ayushiz5tv.herokuapp.com?c=0-9-378
+#EXTINF:-1, Colors HD
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+#EXTINF:-1, Colors HD
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#EXTINF:-1, Zee TV HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
+#EXTINF:-1, Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Zee TV HD
+http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
+#EXTINF:-1, Zee TV HD
+http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
+#EXTINF:-1, Zee Cinema HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Zee Cinema HD
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=7DycovFUtsF45qAdOZO1%2blTppLs%3d
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD Plus
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="VOOT",Nick HD+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZDQm5IemZwOUNzUTR3bEtNdVhWTGhOMmYwakpENHkxT196WmJlT3E5ZUlMd3RPemdPSk5rWGNyTWc4R203Ykt6LUdOR2dXUU1QUktMVHJGRmNiNnlraEhaYTlGaXhpTEF1MHdTbHRkaTVnZ0N6RU1nXzN4Y0FWRnRpM19BWTM3WG03SjZhZ1hvN2tMNFRyaHVVZWdNRWwxMUJ4WkpfQ29adWZjd1doemhkX0Rqb3pzc1BDYnJOS1l4bkhuRmlCYVNQdGo5eFpKVUhLWGlBWjFMUFUxUnYtbkppN0RZYWxiWl9xUVNBSDRpcDV1dWNhTS1BMG8xYk5WRUt5b3F4bVJyY1hhQTVIS2h6LU5wOTNQeGlMdzZjQnBkY0xSRUhGY0YtNnVXcEV4dVFFZmVzNG5uZFdIdzc5bDhEZTJCZU1jeXNuNzFVV1pSSmhWZ0t5Tm1Bdm1OS19SX3FFNzQ3eTJOZG91ZU5tcGs3MFNYcDNlTnZ2N1NIb3lub2xWN1dUc3RBPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ1MTM3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkNCbkh6ZnA5Q3NRNHdsS011WFZMaE4yZjBqSkQ0eTFPX3paYmVPcTllSUx3dE96Z09KTmtYY3JNZzhHbTdiS3otR05HZ1dRTVBSS0xUckZGY2I2eWtoSFphOUZpeGlMQXUwd1NsdGRpNWdnQ3pFTWdfM3hjQVZGdGkzX0FZMzdYbTdKNmFnWG83a0w0VHJodVVlZ01FbDExQnhaSl9Db1p1ZmN3V2h6aGRfRGpvenNzUENick5LWXhuSG5GaUJhU1B0ajl4WkpVSEtYaUFaMUxQVTFSdi1uSmk3RFlhbGJaX3FRU0FINGlwNXV1Y2FNLUEwbzFiTlZFS3lvcXhtUnJjWGFBNUhLaHotTnA5M1B4aUx3NmNCcGRjTFJFSEZjRi02dVdwRXh1UUVmZXM0bm5kV0h3NzlsOERlMkJlTWN5c243MVVXWlJKaFZnS3lObUF2bU5LX1JfcUU3NDd5Mk5kb3VlTm1wazcwU1hwM2VOdnY3U0hveW5vbFY3V1RzdEE9PSIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=NuLHx8kpTBbEyiPFZ%2fx%2fMY9oL70%3d
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="VOOT",Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgzMzYzMDIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoic29uaWNfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkZ5M1ptcE5KWFd5SmFqeDI1RE1QUlg3UkxKdnZRMTM0ZV95YVZoUzU3RGJCMms3b2lNRzZaVWtPZUwwSkNFT0NDR3pkamQzZmtpa25zVTdUM1dWa3ZuUHJuUUdRcVNqM2I5WGVfWW5VQ19KWHVxQVpoMXpaeWlncHpNcHJRYUtwTmM4R3gyRGdyZFBmWk1Qdmh2enlZeTJEa1N2U1d5amlyR2NsM1drLVZST0NvZ0RLeC10WERXV2RqY0hHNm1SMjZrX0xQMmI3MTQwMm1IX0xMX2VncDZIMVpyOWFVN2RFcGV5MGNrQjhDVER4QS02aFBWYnJzYXBJSEkxb05DZEJNWV9oMVNuVF85dEpJaXVlVjVNOWtUS2dWTk9qTHgzWHlYMlB1R0NLdWNsZDExbDFFakdNdldCRFhmaVJ6QkRLTmVrdnVpZ2Nwd2VZZ3hqQ0xCcG5QeENpdjhlaWhqQ05yTVpDanN0NFg3X1h6ZEkyWU9uMXlNV040VHpFNTJmZjBSa1BfM2N3VndGOWJHVEJmS2c4RXVjU2JEbWg2ZXdIVDhaMENYYVlvRnhQUERHNFJOVnRVMlBoSnNqNExfeGxHY3h3bTFYRlJpZERBVEJUMjAtTzB1Z0w4WHprVHA0bDVtOS1vdlRQeW1yIiwidWRpZCI6IjJhM2IwZTVjZDAzNjQ3Y2NhNGEyN2NjNjcyNWM1MjY2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=urCKvCdMXbH2BNLVZZnza3iczVE%3d
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="VOOT",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="VOOT",Colors Cineplex HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT",Comedy Central HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=pPFK0oru0vii%2bp6wQGmfZ5DQSs4%3d
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="VOOT",Colors Infinity HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
+https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="VOOT",Rishtey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGUXc0RlBZcmJiMzBBdEhCd1llZUhtODh1ZUp0eGV3bTRMbjcwMlhrdVBhNWRYbVJVeGxsQlhncUhDSEJNa1dpOG5WUHBaaXFoUHZOTWprb3hZbXk0N2U1clczSWppQW4tck1WY2xlcXRacnQ0bDJYU3hwMDNXdkJBTUpybV9tcTk5WFpWZ09Tc29yZ09qYlhNNncwenlidlZTMUFVWWFvamJXSi04bV9lR2VESVJJcTNMNTJkTGNXdzRmZTFmU0VSQ0VFa1F0SXQ5UTBTR0JBaEE4eWRWc0JZQlA3TEJNZ0FGSE90S0JCMmtia3ZNc0RkX2R4Q0xESmFWTXRNVlktRGZTUjlYSEVXLVBEVkFBaDRhVFdjZ3NVS0NCYUxLUzF3LWVEczZvQ0o2VDhKRms2WU5pVzM0S2J3X1QzMUozVXdLS0ZuY0ZNME1qRkhQTmVCc1RtdGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM3MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRlF3NEZQWXJiYjMwQXRIQndZZWVIbTg4dWVKdHhld200TG43MDJYa3VQYTVkWG1SVXhsbEJYZ3FIQ0hCTWtXaThuVlBwWmlxaFB2Tk1qa294WW15NDdlNXJXM0lqaUFuLXJNVmNsZXF0WnJ0NGwyWFN4cDAzV3ZCQU1Kcm1fbXE5OVhaVmdPU3NvcmdPamJYTTZ3MHp5YnZWUzFBVVlhb2piV0otOG1fZUdlRElSSXEzTDUyZExjV3c0ZmUxZlNFUkNFRWtRdEl0OVEwU0dCQWhBOHlkVnNCWUJQN0xCTWdBRkhPdEtCQjJrYmt2TXNEZF9keENMREphVk10TVZZLURmU1I5WEhFVy1QRFZBQWg0YVRXY2dzVUtDQmFMS1Mxdy1lRHM2b0NKNlQ4SkZrNllOaVczNEtid19UMzFKM1V3S0tGbmNGTTBNakZIUE5lQnNUbXRnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=f%2bkf%2b%2fUFG2iMp2klPrYC7Da60ss%3d
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+#EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="VOOT",Colors Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzU0NDU2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc3N1cGVyX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=YYEAAJPxzCfQpfbJTDHmo%2bMse38%3d&sessionId=428a7eee-0998-21ff-7f70-d2e3652615b4:e996db95-83fe-51a3-c667-23ac2e6bbd99
+https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
+#EXTINF:-1 tvg-id="785" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="VOOT",Colors Super
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d
+https://livevoot-i.akamaihd.net/dash/live/828527/colorssuper/master.mpd
+#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="VOOT",Colors Cineplex
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFanBJNjRfNHgzbHd4QVFjLWZmUHR5TFBZdlpyNDRXdjQ0SkF4M0xMSTdoLUdoRm9xY2hOT1hIVUZWVXEzOV9TU2ZRTWx5SG5GRklyN2lwR3hPb2d0S3lNS014MG9lLUJ2UzhpM0RjQUpNdmVyOHUyNlNjck9tX01CcmxPVEEtemRFZmZBYkFnR0tPSzJ6b3NTNTAtcWh6UDVPaWpYNHBtdDNTNUZadkpyTURmWVV4U0RfeTBSMkdBeE9iRE5lTHgyZlJYeDBiMWl6S0FZekZaU3NJR0p1VmZLX1FwWEtuTXRYbENSVHJVUHN5Wjk0U05UaEFOaGxiclBKSlpCVld1eV9HckR1TlJEdUE3ZzJ1T2xicDV1N2RHanE3WmZuVzFQVWQ3TXFuekc5MDFfNWVZMVAxdE8wbkx0d25OMzZfcmlpTTNDbmlBazZiSEhjeEJKRHVSMUtZcWlNQ1kwb0hMR25IYzhBMEpBZ0drb0Rob0hjMUx2UktoaDAxUkUxLV9QQzVORGxJckVGMHFYbE1JR1YyNnloSkpxaDh2N194Ty0wb3VLdkFuN3hweEJPUnFTTHNWNVFjVkRVT2lLTUZiTDNWT3lWSzI4QWl0T3N1T1ZDb2VTUT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMDY4MjkxNiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNrYW5uYWRhaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkVqcEk2NF80eDNsd3hBUWMtZmZQdHlMUFl2WnI0NFd2NDRKQXgzTExJN2gtR2hGb3FjaE5PWEhVRlZVcTM5X1NTZlFNbHlIbkZGSXI3aXBHeE9vZ3RLeU1LTXgwb2UtQnZTOGkzRGNBSk12ZXI4dTI2U2NyT21fTUJybE9UQS16ZEVmZkFiQWdHS09LMnpvc1M1MC1xaHpQNU9palg0cG10M1M1Rlp2SnJNRGZZVXhTRF95MFIyR0F4T2JETmVMeDJmUlh4MGIxaXpLQVl6RlpTc0lHSnVWZktfUXBYS25NdFhsQ1JUclVQc3laOTRTTlRoQU5obGJyUEpKWkJWV3V5X0dyRHVOUkR1QTdnMnVPbGJwNXU3ZEdqcTdaZm5XMVBVZDdNcW56RzkwMV81ZVkxUDF0TzBuTHR3bk4zNl9yaWlNM0NuaUFrNmJISGN4QkpEdVIxS1lxaU1DWTBvSExHbkhjOEEwSkFnR2tvRGhvSGMxTHZSS2hoMDFSRTEtX1BDNU5EbElyRUYwcVhsTUlHVjI2eWhKSnFoOHY3X3hPLTBvdUt2QW43eHB4Qk9ScVNMc1Y1UWNWRFVPaUtNRmJMM1ZPeVZLMjhBaXRPc3VPVkNvZVNRPSIsInVkaWQiOiI0ZWMyZTkwNGUzMTk0MTZmODY4MTY3NTcwYmZhOWE3ZiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=TxWxKY90%2brcJoqrH4HBUCgOOkSI%3d&sessionId=d977f5d5-8a75-2199-5834-cbfc76a2af15:e9e6f8a1-32cf-d6d7-2362-9884bd28bfc0&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly93d3cudm9vdC5jb20vcGNjaGFubmVsL2NvbG9ycy1rYW5uYWRhLWhkLzkxMTY1NA==
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+#EXTINF:-1 tvg-id="757" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="VOOT",Colors Kannada HD
+https://livevoot-i.akamaihd.net/dash/live/828525/kannada1/master.mpd
+#EXTINF:-1 tvg-id="196" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="VOOT",Colors Gujarati
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzYiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3Jzb2RpYV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=o0maiyCjQLnv8SgCEllhGEkeV54%3d&sessionId=dfefec3d-dff7-a1de-0418-722e943c29a5:fb7448f7-482d-1c7a-b1f5-99cc8a0b9a1c
+https://livevoot-i.akamaihd.net/dash/live/828532/colorsgujarati/master.mpd
+#EXTINF:-1 tvg-id="198" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="VOOT",Colors Oriya
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzgiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzYmFuZ2xhX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=Efuk4jS5sQ49b5Y5MDMXaJf1GVM%3d
+https://livevoot-i.akamaihd.net/dash/live/828550/colorsodia/master.mpd
+#EXTINF:-1 tvg-id="756" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="VOOT",Colors Bengali HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGUXc0RlBZcmJiMzBBdEhCd1llZUhtODh1ZUp0eGV3bTRMbjcwMlhrdVBhNWRYbVJVeGxsQlhncUhDSEJNa1dpOG5WUHBaaXFoUHZOTWprb3hZbXk0N2U1clczSWppQW4tck1WY2xlcXRacnQ0bDJYU3hwMDNXdkJBTUpybV9tcTk5WFpWZ09Tc29yZ09qYlhNNncwenlidlZTMUFVWWFvamJXSi04bV9lR2VESVJJcTNMNTJkTGNXdzRmZTFmU0VSQ0VFa1F0SXQ5UTBTR0JBaEE4eWRWc0JZQlA3TEJNZ0FGSE90S0JCMmtia3ZNc0RkX2R4Q0xESmFWTXRNVlktRGZTUjlYSEVXLVBEVkFBaDRhVFdjZ3NVS0NCYUxLUzF3LWVEczZvQ0o2VDhKRms2WU5pVzM0S2J3X1QzMUozVXdLS0ZuY0ZNME1qRkhQTmVCc1RtdGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM3MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRlF3NEZQWXJiYjMwQXRIQndZZWVIbTg4dWVKdHhld200TG43MDJYa3VQYTVkWG1SVXhsbEJYZ3FIQ0hCTWtXaThuVlBwWmlxaFB2Tk1qa294WW15NDdlNXJXM0lqaUFuLXJNVmNsZXF0WnJ0NGwyWFN4cDAzV3ZCQU1Kcm1fbXE5OVhaVmdPU3NvcmdPamJYTTZ3MHp5YnZWUzFBVVlhb2piV0otOG1fZUdlRElSSXEzTDUyZExjV3c0ZmUxZlNFUkNFRWtRdEl0OVEwU0dCQWhBOHlkVnNCWUJQN0xCTWdBRkhPdEtCQjJrYmt2TXNEZF9keENMREphVk10TVZZLURmU1I5WEhFVy1QRFZBQWg0YVRXY2dzVUtDQmFMS1Mxdy1lRHM2b0NKNlQ4SkZrNllOaVczNEtid19UMzFKM1V3S0tGbmNGTTBNakZIUE5lQnNUbXRnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=f%2bkf%2b%2fUFG2iMp2klPrYC7Da60ss%3d
+https://livevoot-i.akamaihd.net/dash/live/828529/colorsbangla/master.mpd
+#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="VOOT",Colors HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgxNDE5MDkiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzbWFyYXRoaV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=Hv5fKZoe9jmMliExuYd4XkE%2bjZM%3d&sessionId=1fab1c33-e772-cac2-7cda-27390b40c4c3:9ee5b31e-40f7-2d42-861f-d03f5276e8fa&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLW1hcmF0aGktaGQvNzkzOTMw
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+#EXTINF:-1 tvg-id="755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="VOOT",Colors Marathi HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d
+https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd
+#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="VOOT",Comedy Central HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODgyNjk2MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZiZWF0c19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTjNKWUtvaTFUYmU2Tmh4Zk5hUzVvTC1MMmx2bW8xT3dYZDRISHFpVm9INEpDVDJCWkpaZlFRMTZjQmMwTXo2YWZaeWdQUVJicldhcHVhNXRsR3l2UHo3SUtxeFg4Nnd2cDZIUlBrUHpjYnFSYVo3R0xpLWxmNjA4WE9YbWZWWkcxUWRPZlUteGc4WjRCNlVPa0Rrc1pRZk1WdHJwcWpRaFVIdXhnQm9aUjUyZTY3V3ZMZVJVNHRpM2hiNng1WTZYWG9fZC1va0Z0VDBEUU1VSEh1NlNLNFdfN3ZNSHRCZm15UW9kT1pXTjdIVVl0ZUEycms0akZ5NW1jd1dXUGx5VXAtekh4cXh5RXhMaHY0MmJSZjJDc1cxd2JIOElqdWlrenUzWWFzeVV2cnQxcGcyblhzT3QzcHg3ZmNWdFJqeHc3ZVc5SGxPanZtZ25DRVFsQmhYNjI4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=OG1hOAa72zbU10Rajz5hYJ7miAc%3d
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="VOOT",MTV Beats HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=7DycovFUtsF45qAdOZO1%2blTppLs%3d
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="VOOT",MTV HD Plus
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="VOOT",Nick HD+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZDQm5IemZwOUNzUTR3bEtNdVhWTGhOMmYwakpENHkxT196WmJlT3E5ZUlMd3RPemdPSk5rWGNyTWc4R203Ykt6LUdOR2dXUU1QUktMVHJGRmNiNnlraEhaYTlGaXhpTEF1MHdTbHRkaTVnZ0N6RU1nXzN4Y0FWRnRpM19BWTM3WG03SjZhZ1hvN2tMNFRyaHVVZWdNRWwxMUJ4WkpfQ29adWZjd1doemhkX0Rqb3pzc1BDYnJOS1l4bkhuRmlCYVNQdGo5eFpKVUhLWGlBWjFMUFUxUnYtbkppN0RZYWxiWl9xUVNBSDRpcDV1dWNhTS1BMG8xYk5WRUt5b3F4bVJyY1hhQTVIS2h6LU5wOTNQeGlMdzZjQnBkY0xSRUhGY0YtNnVXcEV4dVFFZmVzNG5uZFdIdzc5bDhEZTJCZU1jeXNuNzFVV1pSSmhWZ0t5Tm1Bdm1OS19SX3FFNzQ3eTJOZG91ZU5tcGs3MFNYcDNlTnZ2N1NIb3lub2xWN1dUc3RBPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ1MTM3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkNCbkh6ZnA5Q3NRNHdsS011WFZMaE4yZjBqSkQ0eTFPX3paYmVPcTllSUx3dE96Z09KTmtYY3JNZzhHbTdiS3otR05HZ1dRTVBSS0xUckZGY2I2eWtoSFphOUZpeGlMQXUwd1NsdGRpNWdnQ3pFTWdfM3hjQVZGdGkzX0FZMzdYbTdKNmFnWG83a0w0VHJodVVlZ01FbDExQnhaSl9Db1p1ZmN3V2h6aGRfRGpvenNzUENick5LWXhuSG5GaUJhU1B0ajl4WkpVSEtYaUFaMUxQVTFSdi1uSmk3RFlhbGJaX3FRU0FINGlwNXV1Y2FNLUEwbzFiTlZFS3lvcXhtUnJjWGFBNUhLaHotTnA5M1B4aUx3NmNCcGRjTFJFSEZjRi02dVdwRXh1UUVmZXM0bm5kV0h3NzlsOERlMkJlTWN5c243MVVXWlJKaFZnS3lObUF2bU5LX1JfcUU3NDd5Mk5kb3VlTm1wazcwU1hwM2VOdnY3U0hveW5vbFY3V1RzdEE9PSIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=NuLHx8kpTBbEyiPFZ%2fx%2fMY9oL70%3d
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="VOOT",Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="VOOT",Rishtey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgzMzYzMDIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoic29uaWNfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkZ5M1ptcE5KWFd5SmFqeDI1RE1QUlg3UkxKdnZRMTM0ZV95YVZoUzU3RGJCMms3b2lNRzZaVWtPZUwwSkNFT0NDR3pkamQzZmtpa25zVTdUM1dWa3ZuUHJuUUdRcVNqM2I5WGVfWW5VQ19KWHVxQVpoMXpaeWlncHpNcHJRYUtwTmM4R3gyRGdyZFBmWk1Qdmh2enlZeTJEa1N2U1d5amlyR2NsM1drLVZST0NvZ0RLeC10WERXV2RqY0hHNm1SMjZrX0xQMmI3MTQwMm1IX0xMX2VncDZIMVpyOWFVN2RFcGV5MGNrQjhDVER4QS02aFBWYnJzYXBJSEkxb05DZEJNWV9oMVNuVF85dEpJaXVlVjVNOWtUS2dWTk9qTHgzWHlYMlB1R0NLdWNsZDExbDFFakdNdldCRFhmaVJ6QkRLTmVrdnVpZ2Nwd2VZZ3hqQ0xCcG5QeENpdjhlaWhqQ05yTVpDanN0NFg3X1h6ZEkyWU9uMXlNV040VHpFNTJmZjBSa1BfM2N3VndGOWJHVEJmS2c4RXVjU2JEbWg2ZXdIVDhaMENYYVlvRnhQUERHNFJOVnRVMlBoSnNqNExfeGxHY3h3bTFYRlJpZERBVEJUMjAtTzB1Z0w4WHprVHA0bDVtOS1vdlRQeW1yIiwidWRpZCI6IjJhM2IwZTVjZDAzNjQ3Y2NhNGEyN2NjNjcyNWM1MjY2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=urCKvCdMXbH2BNLVZZnza3iczVE%3d
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:-1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="VOOT",Sonic Hindi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=pPFK0oru0vii%2bp6wQGmfZ5DQSs4%3d
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="VOOT",Colors Infinity HD
+https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
